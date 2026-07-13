@@ -5,7 +5,7 @@ seaborn
 plotly
 statsmodels
 pmdarima
-prophet
+prophet==1.1.5
 xgboost
 scikit-learn
 streamlit
