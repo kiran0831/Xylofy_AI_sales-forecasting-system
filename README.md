@@ -32,4 +32,4 @@ streamlit run app.py
 \`\`\`
 
 ## Live demo
-[Add your Streamlit Cloud link here once deployed]
+https://xylofyaisales-forecasting-system.streamlit.app
